@@ -3,5 +3,5 @@
 瀑布流效果很多。但我做的这个基于UIScrollview,集成下拉刷新和上拉刷新。Demo是模仿蘑菇街的效果。框架中包含大量注释。</br>
 方便开发者学习和使用。</br>
 
-![NQWaterFlowController](MyWaterFlow.gif)
+<img src="https://github.com/NengQuan/MyWaterFlowCtroller/raw/master/MyWaterFlow.gif" alt="REFrostedViewController Screenshot" width="320" height="568" />
 
