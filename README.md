@@ -12,7 +12,7 @@
 * ARC
 
 ## Demo
-打开运行 'Demo'工程进行参考使用`MyWaterFlowCtroller` 
+打开运行 'Demo'工程进行参考使用`MyWaterFlowCtroller` </br>
 Build and run the `Demo` project in Xcode to see `MyWaterFlowCtroller` in action.
 
 ## 功能：
