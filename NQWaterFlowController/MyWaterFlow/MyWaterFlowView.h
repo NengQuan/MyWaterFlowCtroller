@@ -19,7 +19,7 @@ typedef enum : NSUInteger {
 } MyWaterFlowViewMaginType;
 
 /**
- *  数据源方法
+ *  数据源
  */
 @protocol MyWaterFlowViewDataSource <NSObject>
 
